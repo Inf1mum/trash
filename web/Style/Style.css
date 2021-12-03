@@ -1,0 +1,107 @@
+#block1
+{
+    width : 20%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+#block2
+{
+    width: 50px;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+}
+#block3
+{
+    width: 35%;
+    background:-o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#block4
+{
+    width: 100px;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 0%;
+}
+#block5
+{
+
+    width: 40%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#block6
+{
+    width: 50px;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+}
+#block7
+{
+    width : 30%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    cursor: pointer;
+
+}
+#block8
+{
+    width : 40%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 1px black;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#block9
+{
+    width : 20%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    margin-top: 5%;
+    cursor: pointer;
+}
+#block10
+{
+    width : 20%;
+    text-align: center;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    cursor: pointer;
+
+}
+#block11
+{
+    width : 10%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    cursor: pointer;
+    margin-left: 25%;
+}
+#block12
+{
+    width : 10%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    cursor: pointer;
+    margin-left: 10%;
+
+}
+#block13
+{
+    width : 10%;
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    border: solid 3px black;
+    cursor: pointer;
+    margin-left: 35%;
+
+}
